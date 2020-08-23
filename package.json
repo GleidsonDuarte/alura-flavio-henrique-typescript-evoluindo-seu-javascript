@@ -1,0 +1,25 @@
+{
+  "name": "alura-flavio-henrique-typescript-evoluindo-seu-javascript",
+  "version": "1.0.0",
+  "description": "https://cursos.alura.com.br/course/typescript-parte1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "tsc",
+    "start": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GleidsonDuarte/alura-flavio-henrique-typescript-evoluindo-seu-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GleidsonDuarte/alura-flavio-henrique-typescript-evoluindo-seu-javascript/issues"
+  },
+  "homepage": "https://github.com/GleidsonDuarte/alura-flavio-henrique-typescript-evoluindo-seu-javascript#readme",
+  "devDependencies": {
+    "@types/jquery": "^2.0.42",
+    "typescript": "^2.3.2"
+  }
+}
