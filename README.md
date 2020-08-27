@@ -1,6 +1,6 @@
-# Plataforma: Alura
-## Curso: Typescript evoluindo seu javascript
-## Professor: Flavio Henrique
+# Curso: Typescript evoluindo seu javascript
+### Plataforma: Alura
+### Professor: Flavio Henrique
 
 https://cursos.alura.com.br/course/typescript-parte1
 
